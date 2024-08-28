@@ -92,13 +92,13 @@ main {
 .card:nth-child(1)::after {
   content: "";
   width: 112px;
-  height: 108px;
+  height: 110px;
   position: absolute;
   background-image: url("images/bg-pattern-quotation.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  right: 5%;
+  left: 61%;
   top: 0;
 }
 
